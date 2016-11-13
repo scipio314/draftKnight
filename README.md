@@ -1,5 +1,5 @@
 # draftKnight
-draftKnight is an excel sheet that generates optimized lineups for DraftKings.
+draftKnight is an excel sheet that generates optimized fantasy football lineups for DraftKings.
 
 ### Requirements
 * Excel 2010 or later
