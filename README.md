@@ -23,4 +23,4 @@ draftKnight is an excel sheet that generates optimized fantasy football lineups 
 ### Preview
 ![Dashboard](http://i.imgur.com/OLqm961.png "Dashboard")  
 ![My Team](http://i.imgur.com/wGZ9ue6.png "My Team")  
-![Performance](http://i.imgur.com/DIjyj7P.png "Performance")  
+![Performance](http://i.imgur.com/XdoLP3J.png "Performance")  
