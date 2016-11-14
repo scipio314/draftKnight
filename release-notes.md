@@ -1,3 +1,8 @@
+### draftKnight v1.1  
+* Fixed: Optimal team now shows up up on "Performance" sheet  
+* Fixed: Chart min and max values now adjust to results  
+* Fixed: Comment markers are now deleted when refreshing "My Team" page (hopefully)  
+
 ### draftKnight v1.0  
 
 Initial features of the excel workbook:  
