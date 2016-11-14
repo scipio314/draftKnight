@@ -6,6 +6,7 @@ draftKnight is an excel sheet that generates optimized fantasy football lineups 
 * [OpenSolver for Excel](http://opensolver.org/)
 
 ### Instructions
+* Follow the instructions to install [OpenSolver for Excel](http://opensolver.org/installing-opensolver/)
 * Go to the [Release](https://github.com/scipio314/draftKnight/releases) page and download the latest .xlsm file.
 * Move the excel file into a folder like "DraftKings Excel" (Somewhere other than the default download folder).
 * Enable macros after opening the file.
