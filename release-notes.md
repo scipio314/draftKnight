@@ -1,3 +1,6 @@
+### draftKnight v1.2  
+* Fixed: workbook connections are now re-pathed to users folder directory.  
+
 ### draftKnight v1.1  
 * Fixed: Optimal team now shows up up on "Performance" sheet  
 * Fixed: Chart min and max values now adjust to results  
