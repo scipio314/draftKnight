@@ -1,3 +1,6 @@
+### draftKnight v1.3  
+* Added: There is now a column on the "My Team" page that shows the opponent the player is facing.  [#2](https://github.com/scipio314/draftKnight/issues/2)
+
 ### draftKnight v1.2  
 * Fixed: workbook connections are now re-pathed to users folder directory.  
 
