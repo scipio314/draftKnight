@@ -1,3 +1,19 @@
+### draftKnight v1.4  
+**Custom Projections**  
+* Fixed: All previous entries are removed before adding new player pool.  
+
+**Optimization Results**  
+* Fixed: Previous entries are removed when downloading a new player pool.  
+
+**Performance**  
+* Fixed: Now supports more than 100 entries.  
+* Fixed: Graphs show more than 100 entries.  
+* Fixed: Formatting bugs.  
+* Fixed: .csv output file for a perfect lineup is now called "DKEntry - Perfect Lineup.csv" instead of "DKEntry - Post Optimal Lineup.csv"  
+
+**My Team**  
+* Fixed: WR's that get locked now appear darkened.  
+
 ### draftKnight v1.3  
 * Added: There is now a column on the "My Team" page that shows the opponent the player is facing.  [#2](https://github.com/scipio314/draftKnight/issues/2)
 
