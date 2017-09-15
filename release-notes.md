@@ -1,3 +1,25 @@
+### draftKnight v1.5
+# Updated for the 2017 season  
+
+**Data Connection**  
+* Updated the URL for fantasypros ECR projections page.  
+
+**If you have problems with refreshing projections try doing the steps outlined below to login to fantasypros inside Excel.**    
+
+**Important steps to get the player projections to work:**  
+1. Go to the "Data" tab in Excel and then select "Connections".  
+2. Select "FPProjections" and click the "Properties" button.  
+3. Go to "Definition" and then "Edit Query..."  
+4. This will open the projections page. Select "yes" a ton of times.  
+5. Once you click through the pop-up hell, hover your mouse over the left hand side and move up and down until you see "Log In".  
+6. Select that and login to fantasypros with your credentials.  
+
+You should only have to do this once. If this doesn't work go to [this issues thread](https://github.com/scipio314/draftKnight/issues/8) and report there. Someone may have a solution for you.   
+
+**Players**  
+* Created a script to update differences in player names (example: Mitchell Trubisky changes to Mitch Trubisky).  
+* Michael Thomas changed to Mike Thomas to avoid confusion.  
+
 ### draftKnight v1.4  
 **Custom Projections**  
 * Fixed: All previous entries are removed before adding new player pool.  
