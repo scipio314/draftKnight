@@ -1,3 +1,19 @@
+### draftKnight v1.6  
+**All Players**  
+* Fixed: Patrick Mahomes spelling to be compatible with fantasypros.  
+
+**Lineup Errors**  
+* Added: An error message will now pop up if there is an error.  
+
+**Uploading to DraftKings**  
+* Fixed: Opening and closing the generated .csv file is no longer needed to upload to DraftKings.  
+
+**Performance Sheet**  
+* Fixed: Formatting issues when not many optimized lineups were created.  
+
+**My Team**  
+* Fixed: Player news comment markers now get deleted properly. see this issue:  https://github.com/scipio314/draftKnight/issues/1  
+
 ### draftKnight v1.5
 # Updated for the 2017 season  
 
