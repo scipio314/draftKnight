@@ -1,3 +1,9 @@
+### draftKnight v1.61
+
+#### Quick update to fix the "performance" tab.  
+
+Fixed: Performance tab will properly update when you have more than 45 lineups to evaluate  
+
 ### draftKnight v1.6  
 **All Players**  
 * Fixed: Patrick Mahomes spelling to be compatible with fantasypros.  
