@@ -1,3 +1,10 @@
+### draftKnight v1.62
+
+Small update to fix the duplicate Chris Thompson issue. Chris Thompson (WR HOU) will be placed on the ignored players list.
+
+**My Team Tab**  
+ Fix: Chris Thompson added to "ignored players" list
+
 ### draftKnight v1.61
 
 #### Quick update to fix the "performance" tab.  
