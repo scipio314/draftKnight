@@ -1,3 +1,21 @@
+### draftKnight v1.7
+
+This update fixes projections not working due to the fantasypros dfs paywall area. It also is now compatible with the DraftKings new .csv format. I've also added a new feature to set exposure limits on players.
+
+I am also in the process of creating a version to stack positions QB/WR, QB/RB, QB/TE. It is not functional at the moment.  
+
+**Projections**  
+
+* Fixed: FantasyPros stats are now sourced from this page: https://www.fantasypros.com/nfl/projections/qb.php and then calculated based on DraftKings scoring. The calculations are done in GoogleSheets and automatically updated every 4 hours.  
+
+**All Players**  
+
+* Fixed: Sheet is now compatible with the new DraftKings .csv lineup format.  
+
+**Optimization Features**  
+
+* New: Added the ability to set a maximum exposure. This Exp column can be updated to limit the amount of lineups the player can be in.  `Ex: Setting an exposure of 20% forces the optimization to limit that player to only 20% of the lineups.`  
+
 ### draftKnight v1.62
 
 Small update to fix the duplicate Chris Thompson issue. Chris Thompson (WR HOU) will be placed on the ignored players list.
