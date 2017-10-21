@@ -1,8 +1,3 @@
-# Update 10-18-2017  
-FantasyPros no longer allows free projections. You must subscribe to their service to use their projections. In the meantime you can use your own custom projections from other sources or subscribe to fantasyPros and it will (hopefully) still work.
-
-Additionally, DraftKings has changed their format of the salaries information. ~~I have created a fix to that and will be posting an update to be compatible with the new format. Keep on an eye on the [Release](https://github.com/scipio314/draftKnight/releases) page for an updated version.~~ **UPDATE 10-19-2017** A fix has been created in version 1.7.  
-
 # draftKnight
 draftKnight is an excel sheet that generates optimized fantasy football lineups for DraftKings.
 
