@@ -1,3 +1,15 @@
+### draftKnight v1.71
+
+This update is for the 2018 NFL season. 
+
+**My Team Tab**  
+
+* Fixed: DST will now lock.  
+
+**Projections**  
+
+* Updated: Projections are now updated for the 2018 season.  
+
 ### draftKnight v1.7
 
 This update fixes projections not working due to the fantasypros dfs paywall area. It also is now compatible with the DraftKings new .csv format. I've also added a new feature to set exposure limits on players.
